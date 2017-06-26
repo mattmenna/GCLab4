@@ -15,7 +15,6 @@ public class Main {
         Scanner scnr = new Scanner(System.in);
         System.out.println("Enter an integer");
         int uInput = scnr.nextInt();
-
         System.out.println(factorial(uInput));
     }
 
